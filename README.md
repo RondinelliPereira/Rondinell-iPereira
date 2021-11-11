@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rondinelli Pereira
+- 👋 Hi, I’m @RondinelliPereira
 - 👀 I’m interested in Embedded Systems
 - 🌱 I’m currently learning C# and SQL
 - 💞️ I’m looking to collaborate on all the beginner dev
