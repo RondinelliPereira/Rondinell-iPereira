@@ -1,4 +1,10 @@
 ## Olá! Sou o Rondinelli Pereira
+Sou estudante de Análise e Desenvolvimento de Sistemas.
+Na faculdade utilizamos Python para as atividades.
+Atuamlente faço curso de C# e SQL.
+Interessado na área de Embedded Systems.
+Trabalho com Automação Industrial, programação de robôs Fanuc e PLC.
+##
 
 <div align="center">
   <a href="https://github.com/rondinellipereira">
