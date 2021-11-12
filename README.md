@@ -1,17 +1,9 @@
 ## Olá! Sou o Rondinelli Pereira
 
-- 👨‍🎓 Estudo Análise e Desenvolvimento de Sistemas
-- 📖 Na faculdade usamos Python
-- 💻 Atualmente estou fazendo curso de C# e Microsoft SQL 
-- 👀 Tenho interesse na área de Embedded Systems
-- 💼 Trabalho com automação industrial programando controladores
-
-##
-
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rondinellipereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondinellipereira&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=rondinellipereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondinellipereira&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 ##
