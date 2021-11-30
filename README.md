@@ -1,8 +1,8 @@
 ## Olá! Sou o Rondinelli Pereira
-Estudante de Análise e Desenvolvimento de Sistemas 2/3.
-Na faculdade utilizamos Python para as atividades.
+Estudante de Análise e Desenvolvimento de Sistemas.
 Interessado na área de Embedded Systems.
-Trabalho com Automação Industrial, programação de robôs Fanuc e PLC.
+Trabalho com Automação Industrial há mais de 10 anos com programação de PLC Siemens e agora com robôs Fanuc.
+Na faculdade utilizo Python para as atividades de classe, mas meu real interesse é Desenvolvimento em C# e .NET.
 ##
 
 <div align="center">
