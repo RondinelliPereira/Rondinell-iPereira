@@ -1,9 +1,8 @@
 ## Olá! Sou o Rondinelli Pereira
--Estudante de Análise e Desenvolvimento de Sistemas 2/3.
--Na faculdade utilizamos Python para as atividades.
+Estudante de Análise e Desenvolvimento de Sistemas 2/3.
+Na faculdade utilizamos Python para as atividades.
 Interessado na área de Embedded Systems.
 Trabalho com Automação Industrial, programação de robôs Fanuc e PLC.
-Atuamlente faço curso de C# e SQL em uma carreira de Desenvolvedor Backend .NET no <a href="https://balta.io/carreiras/desenvolvedor-backend-dotnet" target="_blank"><img src="https://baltaio.blob.core.windows.net/static/images/dark/balta-logo.svg" target="_blank"></a> 
 ##
 
 <div align="center">
