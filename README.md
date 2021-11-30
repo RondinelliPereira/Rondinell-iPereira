@@ -1,7 +1,8 @@
 ## Olá! Sou o Rondinelli Pereira
 Sou estudante de Análise e Desenvolvimento de Sistemas.
 Na faculdade utilizamos Python para as atividades.
-Atuamlente faço curso de C# e SQL.
+Atuamlente faço curso de C# e SQL em uma carreira de Desenvolvedor Backend .NET no <img align="center" alt="Rondi-VSCODE" height="30" width="40" src="https://baltaio.blob.core.windows.net/static/images/dark/balta-logo.svg">
+
 Interessado na área de Embedded Systems.
 Trabalho com Automação Industrial, programação de robôs Fanuc e PLC.
 ##
@@ -24,6 +25,8 @@ Trabalho com Automação Industrial, programação de robôs Fanuc e PLC.
   <img align="center" alt="Rondi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <!--<img align="right" alt="Rondi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
 </div>
+  
+  
   
 ##
   
