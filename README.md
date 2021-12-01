@@ -62,6 +62,8 @@ In addition to college, I take a career course in .NET Backend Developer ğŸ‘‰ğŸ
 </div> 
   
 ##
+  
+##### Snake Game
  
 ![Snake animation](https://github.com/rondinellipereira/rondinellipereira/blob/output/github-contribution-grid-snake.svg)
  
