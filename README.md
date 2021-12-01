@@ -11,7 +11,6 @@ In addition to college, I take a career course in .NET Backend Developer ğŸ‘‰ğŸ
 <a href="https://github.com/rondinellipereira">
 <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rondinellipereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="175em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondinellipereira&layout=compact&langs_count=7&theme=dark"/>
-##
   
 Learning
   
@@ -28,9 +27,6 @@ Learning
 <!--<img align="right" alt="Rondi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
 <!--</div>-->
   
-  
-  
-##
 Social Media
   
 <div> 
