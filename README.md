@@ -4,7 +4,7 @@ Interessado na área de Embedded Systems.
 Trabalho com Automação Industrial há mais de 10 anos com programação de PLC Siemens e agora com robôs Fanuc.
 Na faculdade utilizo Python para as atividades de classe, mas meu real interesse é Desenvolvimento em C# e .NET.
 ##
-Além da faculdade, faço curso de uma carreira em Desenvolvedor Backend .NET confira 👉🏾  <a href="https://balta.io/carreiras/desenvolvedor-backend-dotnet" target="_blank"><img src="https://baltaio.blob.core.windows.net/static/images/dark/balta-logo.svg" target="_blank"></a> 
+Além da faculdade, faço curso de uma carreira em Desenvolvedor Backend .NET  👉🏾  <a href="https://balta.io/carreiras/desenvolvedor-backend-dotnet" target="_blank"><img src="https://baltaio.blob.core.windows.net/static/images/dark/balta-logo.svg" target="_blank"></a> 
 ##
 
 <div align="center">
