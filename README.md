@@ -25,7 +25,10 @@ In addition to college, I take a career course in .NET Backend Developer ğŸ‘‰ğŸ
   <!--<img align="center" alt="Rondi-SQL" height="30" width="40" src="">-->
 </div>
   
-                                                                                                                                                                  ##### Mobile
+##### Mobile
+<div>
+  <img align="center" alt="Rondi-SWIFIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+</div>
   
 ##
   
