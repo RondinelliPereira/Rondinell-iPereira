@@ -18,7 +18,7 @@ In addition to college, I take a career course in .NET Backend Developer ğŸ‘‰ğŸ
 ##### Learning WEB
 <div>  
   <img align="center" alt="Rondi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rondi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rondi-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--<img align="center" alt="Rondi-SQL" height="30" width="40" src="">-->
 </div>
   
