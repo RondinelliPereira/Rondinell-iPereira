@@ -7,11 +7,10 @@ In college I use Python for class activities, but my real interest is Developmen
 In addition to college, I take a career course in .NET Backend Developer 👉🏾  <a href="https://balta.io/carreiras/desenvolvedor-backend-dotnet" target="_blank"><img src="https://baltaio.blob.core.windows.net/static/images/dark/balta-logo.svg" target="_blank"></a> 
 ##
 
-<div align="center">
-  <a href="https://github.com/rondinellipereira">
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rondinellipereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondinellipereira&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+<a href="https://github.com/rondinellipereira">
+<img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rondinellipereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="175em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondinellipereira&layout=compact&langs_count=7&theme=dark"/>
 ##
   
 Learning
