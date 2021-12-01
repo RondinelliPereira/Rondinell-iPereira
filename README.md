@@ -1,10 +1,10 @@
-## Olá! Sou o Rondinelli Pereira
-Estudante de Análise e Desenvolvimento de Sistemas.
-Interessado na área de Embedded Systems.
-Trabalho com Automação Industrial há mais de 10 anos com programação de PLC Siemens e agora com robôs Fanuc.
-Na faculdade utilizo Python para as atividades de classe, mas meu real interesse é Desenvolvimento em C# e .NET.
+## Hi! I'm Rondinelli Pereira
+Student of Systems Analysis and Development.
+Interested in the Embedded Systems field.
+I have been working with Industrial Automation for over 10 years with Siemens PLC programming and now with Fanuc robots.
+In college I use Python for class activities, but my real interest is Development in C# and .NET.
 ##
-Além da faculdade, faço curso de uma carreira em Desenvolvedor Backend .NET  👉🏾  <a href="https://balta.io/carreiras/desenvolvedor-backend-dotnet" target="_blank"><img src="https://baltaio.blob.core.windows.net/static/images/dark/balta-logo.svg" target="_blank"></a> 
+In addition to college, I take a career course in .NET Backend Developer 👉🏾  <a href="https://balta.io/carreiras/desenvolvedor-backend-dotnet" target="_blank"><img src="https://baltaio.blob.core.windows.net/static/images/dark/balta-logo.svg" target="_blank"></a> 
 ##
 
 <div align="center">
