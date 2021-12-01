@@ -15,6 +15,7 @@ In addition to college, I take a career course in .NET Backend Developer ğŸ‘‰ğŸ
   
 ##
   
+### Learning
 <div>  
   <img align="center" alt="Rondi-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rondi-VSSTUDIO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
