@@ -13,7 +13,7 @@ In addition to college, I take a career course in .NET Backend Developer ğŸ‘‰ğŸ
   <img height="175em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondinellipereira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-###
+##
   
 <div>  
   <img align="center" alt="Rondi-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
