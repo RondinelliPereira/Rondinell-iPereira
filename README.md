@@ -43,10 +43,12 @@ In addition to college, I take a career course in .NET Backend Developer ğŸ‘‰ğŸ
 ##### IDE
 <div>
   <img align="center" alt="Rondi-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Rondi-VSCODE_" height="30" width="130" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Rondi-VSSTUDIO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Rondi-VSSTUDIO_" height="30" width="130" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img align="center" alt="Rondi-XCODE" height="30" width="100" src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white">
-  <img align="center" alt="Rondi-XCODE" height="30" width="130" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" alt="Rondi-XCODE" height="30" width="130" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+ 
+ 
 </div>
   
 ##
