@@ -44,7 +44,7 @@ In addition to college, I take a career course in .NET Backend Developer ğŸ‘‰ğŸ
 <div>
   <img align="center" alt="Rondi-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rondi-VSSTUDIO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Rondi-XCODE" height="30" width="40" src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white">
+  <img align="center" alt="Rondi-XCODE" height="30" width="100" src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white">
 </div>
   
 ##
