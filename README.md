@@ -1,5 +1,5 @@
 ## Hi! I'm Rondinelli Pereira
-Student of Systems Analysis and Development.
+Systems Analysis and Development student at Impacta Technology College.
 Interested in the Embedded Systems field.
 I have been working with Industrial Automation for over 10 years with Siemens PLC programming and now with Fanuc robots.
 In college I use Python for class activities, but my real interest is Development in C# and .NET.
