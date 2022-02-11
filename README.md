@@ -7,7 +7,7 @@ In college I use Python for class activities, but my real interest is Developmen
 
 <div>
   <a href="https://github.com/rondinellipereira">
-  <img height="175em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rondinellipereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" width="380em" src="https://github-readme-stats.vercel.app/api?username=rondinellipereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="175em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondinellipereira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
