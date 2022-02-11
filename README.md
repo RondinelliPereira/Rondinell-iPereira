@@ -13,10 +13,11 @@ In college I use Python for class activities, but my real interest is Developmen
   
 ##
   
-##### Learning WEB
+##### Learning 
 <div>  
   <img align="center" alt="Rondi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rondi-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rondi-SWIFIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
   <!--<img align="center" alt="Rondi-SQL" height="30" width="40" src="">-->
 </div>
   
@@ -28,13 +29,6 @@ In college I use Python for class activities, but my real interest is Developmen
   <img align="center" alt="Rondi-.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Rondi-DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Rondi-DOCKER" height="30" width="130" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-</div>
-  
-##
-  
-##### Learning Mobile
-<div>
-  <img align="center" alt="Rondi-SWIFIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 </div>
   
 ##
