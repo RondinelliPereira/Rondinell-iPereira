@@ -11,7 +11,7 @@ In college I use Python for class activities, but my real interest is Developmen
   <img height="175em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondinellipereira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-##
+<!--##-->
   
 ##### Learning 
 <div>  
@@ -21,7 +21,7 @@ In college I use Python for class activities, but my real interest is Developmen
   <!--<img align="center" alt="Rondi-SQL" height="30" width="40" src="">-->
 </div>
   
-##
+<!--##-->
   
 <!--##### Learning Desktop
 <div>
